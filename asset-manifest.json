@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gayathri-ms/Todo/static/css/main.be56ec19.chunk.css",
+    "main.js": "/gayathri-ms/Todo/static/js/main.01d7c8ba.chunk.js",
+    "main.js.map": "/gayathri-ms/Todo/static/js/main.01d7c8ba.chunk.js.map",
+    "runtime-main.js": "/gayathri-ms/Todo/static/js/runtime-main.5a4d3692.js",
+    "runtime-main.js.map": "/gayathri-ms/Todo/static/js/runtime-main.5a4d3692.js.map",
+    "static/js/2.29a3d5a6.chunk.js": "/gayathri-ms/Todo/static/js/2.29a3d5a6.chunk.js",
+    "static/js/2.29a3d5a6.chunk.js.map": "/gayathri-ms/Todo/static/js/2.29a3d5a6.chunk.js.map",
+    "static/js/3.29ebed84.chunk.js": "/gayathri-ms/Todo/static/js/3.29ebed84.chunk.js",
+    "static/js/3.29ebed84.chunk.js.map": "/gayathri-ms/Todo/static/js/3.29ebed84.chunk.js.map",
+    "index.html": "/gayathri-ms/Todo/index.html",
+    "static/css/main.be56ec19.chunk.css.map": "/gayathri-ms/Todo/static/css/main.be56ec19.chunk.css.map",
+    "static/js/2.29a3d5a6.chunk.js.LICENSE.txt": "/gayathri-ms/Todo/static/js/2.29a3d5a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a4d3692.js",
+    "static/js/2.29a3d5a6.chunk.js",
+    "static/css/main.be56ec19.chunk.css",
+    "static/js/main.01d7c8ba.chunk.js"
+  ]
+}
