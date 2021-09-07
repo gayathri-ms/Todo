@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: Georgia;
+  background: linear-gradient(to bottom , yellow , green) no-repeat center center fixed;
+}
+
+code {
+  font-family: Georgia;
+}
